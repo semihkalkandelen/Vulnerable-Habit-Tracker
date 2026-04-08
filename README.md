@@ -2,7 +2,7 @@
  
 A deliberately vulnerable Android habit tracker application created as a term project to demonstrate common mobile security vulnerabilities through reverse engineering.
  
-> **Educational purposes only.** This app was intentionally built with vulnerabilities.
+> This app was intentionally built with vulnerabilities. Do not use it.
  
 ---
 
